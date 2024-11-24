@@ -10,4 +10,4 @@
 |Content Downloader|[Git Repo](https://github.com/Bisht-01/content-downloader.git)|[web preview contentdownloader](https://github.com/Bisht-01/content-downloader)
 # Project 4
 |Project Name|Git Url|Web preview|
-|Digital Clock|[Git Repo](.git)|[web preview contentdownloader]()
+|Digital Clock|[Git Repo](https://github.com/Bisht-01/digital_clock.git)|[web preview contentdownloader](https://github.com/Bisht-01/digital_clock)
